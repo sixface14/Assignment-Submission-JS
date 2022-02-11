@@ -1,4 +1,4 @@
-//creating an array of objects
+//creating an array of objects..
 var stu=[
     { name:"Arumugam",
       dept:"CSE",
